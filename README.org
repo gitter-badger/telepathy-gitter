@@ -1,5 +1,8 @@
 * Introduction
 
+  #+ATTR_HTML: title="Join the chat at https://gitter.im/detrout/telepathy-gitter"
+  [[https://gitter.im/detrout/telepathy-gitter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/Join%20Chat.svg]]
+
 One of my colaborators wants to use gitter for managing
 all of her groups, I'd rather have a something that
 integrates with my local IM system, so an attempt and
